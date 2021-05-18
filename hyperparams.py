@@ -32,7 +32,7 @@ class Hyperparams:
     attention_win_size = 3
 
     # data
-    data = r"C:\Users\Sax\Desktop\robe\Progetti\TTS\modello inglese\TTS\LJSpeech-1.1"
+    data = r"LJSpeech-1.1"
     # data = "/data/private/voice/kate"
     test_data = 'harvard_sentences.txt'
     vocab = "PE abcdefghijklmnopqrstuvwxyz'.?" # P: Padding, E: EOS.
